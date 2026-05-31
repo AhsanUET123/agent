@@ -1,0 +1,1 @@
+{ "event": "Possible Flooding", "severity": "MEDIUM", "confidence": 0.5, "emergency_level": 2, "reasons": [ "Heavy rainfall detected", "Traffic congestion spike" ], "location_data": { "location": "peshawar", "coords": { "lat": 34.0151, "lng": 71.5249 }
